@@ -1,4 +1,5 @@
 const character = "mario";
+const character2 = "mario";
 
 const inputs = document.querySelectorAll("input");
 
